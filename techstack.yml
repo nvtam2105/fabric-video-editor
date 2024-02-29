@@ -2,7 +2,7 @@ repo_name: nvtam2105/fabric-video-editor
 report_id: c3c2ec3e6ea68a4f2a1c8c648414b7d1
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:52:52+00:00'
+timestamp: '2024-02-29T18:36:32+00:00'
 requested_by: AmitDigga
 provider: github
 branch: master
@@ -67,7 +67,7 @@ tools:
   last_updated_by: Amit Digga
   last_updated_on: 2023-07-07 05:50:57.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.9
   open_source: true
